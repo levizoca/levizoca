@@ -1,6 +1,9 @@
 ### Hi there!
 <img src="https://github-readme-stats.vercel.app/api?username=levizoca&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
 
+##
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/levi-motta-5001a2173/)
 <!--
 **levizoca/levizoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
