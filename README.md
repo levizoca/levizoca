@@ -1,5 +1,5 @@
 ### Hi there!
-<img src="https://github-readme-stats.vercel.app/api?username=levizoca&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levizoca&show_icons=true&theme=gotham)
 
 ##
 
